@@ -1,0 +1,11 @@
+Transaction_ID,Date,Store_Location,Product_Category,Units_Sold,Unit_Price,Discount_Applied
+TXN-001,6/20/2026,North,Electronics,5,299.99,0.05
+TXN-002,6/20/2026,South,Apparel,12,45.5,0
+TXN-003,6/21/2026,East,Home & Garden,2,150,0.1
+TXN-004,6/21/2026,North,Electronics,1,899.99,0
+TXN-005,6/22/2026,West,Apparel,20,25,0.15
+TXN-006,6/23/2026,South,Electronics,3,120,0
+TXN-007,6/23/2026,North,Home & Garden,8,45,0.05
+TXN-008,6/24/2026,East,Apparel,5,60,0
+TXN-009,6/24/2026,West,Home & Garden,1,500,0.2
+TXN-010,6/25/2026,South,Electronics,4,199.99,0.1
