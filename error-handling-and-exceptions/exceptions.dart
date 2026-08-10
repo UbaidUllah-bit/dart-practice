@@ -5,7 +5,7 @@
 //workflow for exceptions
 //throw the exception
 //try the exception
-//catch the exception you can use on to define multiple types of exceptions
+//catch the exception you can use 'on' to define multiple types of exceptions
 //then finally at the end to do some functionality
 //you can use rethrow to propagate an exception to the top by using it in the catch block
 //in this way the exception appears at the end after execution
