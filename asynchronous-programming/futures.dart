@@ -1,3 +1,10 @@
+// a Future represents a
+// computation that doesn't complete
+// immediately, and we can write
+// asynchronous functions that return a
+// Future, and we can await until the result
+// is ready.
+
 Future<String> fetchUserOrder() =>
     Future.delayed(Duration(seconds: 2), () => 'Cappuchino');
 //Future."delayed" is a factory constructor other are "error", "value", sync, microtask
