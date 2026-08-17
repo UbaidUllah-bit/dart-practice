@@ -1,0 +1,16 @@
+✅ Key Lessons for Software Engineers
+Your job is not to write code that “kind of works.”
+
+Aim to write code that is robust and reliable, minimizing chances of failure.
+
+Always consider possible failure cases when designing and implementing code.
+
+Add error handling to gracefully manage unexpected situations.
+
+Write automated tests to build confidence that your code behaves as intended.
+
+Understand that testing is a broad discipline—even if not covered in detail here, it’s essential.
+
+Learn to read and interpret stack traces when errors occur.
+
+Use stack traces to diagnose and fix issues independently.
