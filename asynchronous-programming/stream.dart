@@ -7,6 +7,14 @@
 // stream generator (async*, yield)
 // StreamController :- gives more control on how we add
 // items to the stream
+
+//rule of thumb
+//use await for loop, for streams like for async*, yield ones
+//and listen() to catch the added entities or events in stream and Whether the stream
+// is coming from a StreamController or an async* generator,
+// .listen() sets up a background trap.
+//additionally must use await for a future
+
 Future<int> sumStream(Stream<int> stream) async {
   var sum = 0;
   await for (var value in stream) {
